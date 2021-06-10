@@ -1,0 +1,60 @@
+/* div {
+    width: 1200px;
+    margin: auto;
+} */
+
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+.fs-80 {
+    font-size: 80px;
+}
+
+.header-1333 {
+    height: 1333px;
+}
+
+.bg-lightblue {
+    background: #E5F1FF;
+}
+
+.bg-lightblue:hover {
+    color: white;
+}
+
+.header-image-position {
+    top: 0px;
+    left: 13%;
+    width: 85%;
+    height: 100%;
+}
+
+.slider-images {
+    width: 140px;
+    height: 35px;
+}
+
+.main-messages-icon {
+    width: 80px;
+    height: 80px;
+    background-color: #EAFAF3;
+    border-radius: 50%;
+    line-height: 80px;
+}
+
+.section2 {
+    background-image: url(../images/Background-5.png);
+    height: 100vh;
+    width: 976px;
+    background-color: aqua;
+}
+
+
+/* 
+@media only screen(max-width:970px) {
+    .container {
+        width: 900px;
+    }
+} */
